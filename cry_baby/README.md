@@ -1,4 +1,4 @@
-Cry Baby
+Cry :baby:
 ========
 
 My sister recently had a baby boy and about six weeks after his birth I asked her what the hardest parts of being a new mother were. She immediately replied the hardest thing for her was not knowing why he was crying and or how to appease him.
