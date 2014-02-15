@@ -13,6 +13,15 @@ Recently I have been doing more exercises to improve certain skills, like [code 
 * [Idealized Design](http://www.amazon.com/Idealized-Design-Dissolve-Tomorrows-paperback/dp/0137071116)
 * [Jony Ive](http://www.amazon.com/Jony-Ive-Genius-Greatest-Products-ebook/dp/B00C5R71U8/ref=sr_1_1?ie=UTF8&qid=1392476435&sr=8-1&keywords=jony+ive)
 
+## Contribution Guidelines
+
+I am very liberal when it comes to listing folks names as contributors, here are the typical ways to become a contributor:
+
+* A [Pull Request](https://help.github.com/articles/using-pull-requests) that gets merged.
+* [A comment on a PR or diff that helps improve an idea](https://github.com/jonmagic/product/pull/2#discussion_r9773240). aka Idea Review
+
+Submitting an issue is not considered a contribution unless it ends with a commit (change) in the master branch.
+
 ## Contributors
 
 * [Jonathan Hoyt](https://github.com/jonmagic)
