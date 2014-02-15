@@ -16,6 +16,7 @@ Recently I have been doing more exercises to improve certain skills, like [code 
 ## Contributors
 
 * [Jonathan Hoyt](https://github.com/jonmagic)
+* [Ian Cordasco](https://github.com/sigmavirus24)
 
 ## License
 
