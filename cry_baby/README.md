@@ -3,7 +3,7 @@ Cry :baby:
 
 My sister recently had a baby boy and about six weeks after his birth I asked her what the hardest parts of being a new mother were. She immediately replied the hardest thing for her was not knowing why he was crying and or how to appease him.
 
-The process of appeasing my nephew usually means cycling through several things, is he hungry, does he need his diaper changed, does he just need held, does he need rocked, the list goes on.
+The process of appeasing my nephew usually means cycling through several things, is he hungry, does he need his diaper changed, does he need to be held, does he need to be rocked, the list goes on.
 
 ## The Idea
 
