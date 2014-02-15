@@ -3,7 +3,7 @@ Product Ideas
 
 This is a repository of product ideas, ideas that anyone can take and use or simply contribute to if they feel so inclined.
 
-Most of my career I have either worked in service to people building products or the people supporting products. Being once or twice removed gives me a great opportunity to learn through observation but very little opportunity to learn by trying.
+Most of my career I have either worked to serve people building products or people supporting products. Being once or twice removed gives me a great opportunity to learn through observation but very little opportunity to learn by trying.
 
 Recently I have been doing more exercises to improve certain skills, like [code kata's](http://en.wikipedia.org/wiki/Kata_(programming)) to hone programming skills and master my tools. This repository is an exercise in [product design](http://en.wikipedia.org/wiki/Product_design) and [idealized design](http://knowledge.wharton.upenn.edu/article/idealized-design-how-bell-labs-imagined-and-created-the-telephone-system-of-the-future/).
 
