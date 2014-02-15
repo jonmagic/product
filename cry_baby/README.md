@@ -7,7 +7,7 @@ The process of appeasing my nephew usually means cycling through several things,
 
 ## The Idea
 
-Let's start by clearing stating **the problem** in the form of a question: How does a new parent determine why their infant is crying in order to take the action necessary to appease the cry?
+Let's start by clearly stating **the problem** in the form of a question: How does a new parent determine why their infant is crying in order to take the action necessary to appease the cry?
 
 An **ideal solution** might be: Shortly before or shortly after the infant starts crying the new parent gets a notification on their phone prompting them to take a specific action to appease the cry.
 
