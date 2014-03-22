@@ -42,6 +42,8 @@ I went ahead and [started building an mvp on iOS](https://github.com/whendid/ios
 
 ## Next Steps
 
-* Add ability to see time in other units (months, weeks, days, etc)
-* Sync timers (currently stored in CoreData) either via Dropbox or iCloud
-* Add server option ($5 per year) that backs up your timers and optionally send you anniversary reminder emails
+See https://github.com/whendid/ios-app/issues
+
+## Wait, the project is public?
+
+In addition to posting the idea here in the open, for anyone to see and/or use, I'm also going to do the development of the app and any supporting software in the open. Until I find a better name for the app everything will be located at https://github.com/whendid
