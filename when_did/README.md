@@ -28,6 +28,12 @@ The app would tell me in whichever units I desire.
 * seconds
 * any combination of the above
 
+Examples:
+
+* 11 years ago
+* 3 months ago
+* 3 days, 9 hours, 4 minutes, and 23 seconds ago
+
 ## First Steps
 
 I went ahead and [started building an mvp on iOS](https://github.com/whendid/ios-app).
