@@ -38,7 +38,7 @@ Examples:
 
 I went ahead and [started building an mvp on iOS](https://github.com/whendid/ios-app).
 
-`insert gif of mvp`
+![mvp](http://cl.ly/image/3I3o2o0r2O0L/whendid-mvp.gif)
 
 ## Next Steps
 
