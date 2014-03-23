@@ -20,12 +20,12 @@ Then the app tells me how much time has passed.
 
 ## First Steps
 
-I [built an mvp for iOS](https://github.com/whendid/ios-app).
+I [built an mvp for iOS](https://github.com/when-apps/whendid-ios).
 
 ## Next Steps
 
-See https://github.com/whendid/ios-app/issues
+See https://github.com/when-apps/whendid-ios/issues
 
 ## Wait, the project is public?
 
-In addition to posting the idea here in the open, for anyone to see and/or use, I'm also going to do the development of the app and any supporting software in the open. Until I find a better name for the app everything will be located at https://github.com/whendid
+In addition to posting the idea here in the open, for anyone to see and/or use, I'm also going to do the development of the app and any supporting software in the open. Until I find a better name for the app everything will be located at https://github.com/when-apps
