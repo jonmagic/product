@@ -20,9 +20,7 @@ Then the app tells me how much time has passed.
 
 ## First Steps
 
-I went ahead and [started building an mvp on iOS](https://github.com/whendid/ios-app).
-
-![mvp](http://cl.ly/image/3I3o2o0r2O0L/whendid-mvp.gif)
+I [built an mvp for iOS](https://github.com/whendid/ios-app).
 
 ## Next Steps
 
