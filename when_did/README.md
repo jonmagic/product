@@ -8,7 +8,7 @@ Imagine a simple app where you can start and name a timer, essentially a stop wa
 
 I might add timers for: When did...
 
-![adding timers](http://cl.ly/image/331I2m47263e/creating-new-timers.gif)
+![adding timers](http://cl.ly/image/252A3t0M0J09/demo.gif)
 
 * I graduate from college?
 * I quit smoking?
