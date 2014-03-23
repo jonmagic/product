@@ -14,25 +14,9 @@ I might add timers for: When did...
 * I quit smoking?
 * Adalyn take her first step?
 
-The app would tell me in whichever units I desire.
+Then the app tells me how much time has passed.
 
-`insert gif of cycling through units`
-
-* decades
-* years
-* months
-* weeks
-* days
-* hours
-* minutes
-* seconds
-* any combination of the above
-
-Examples:
-
-* 11 years ago
-* 3 months ago
-* 3 days, 9 hours, 4 minutes, and 23 seconds ago
+![distance in time](http://cl.ly/image/213r3V3D3n1e/human-readable-distance-in-time.gif)
 
 ## First Steps
 
