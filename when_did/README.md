@@ -8,15 +8,13 @@ Imagine a simple app where you can start and name a timer, essentially a stop wa
 
 I might add timers for: When did...
 
-![adding timers](http://cl.ly/image/252A3t0M0J09/demo.gif)
-
 * I graduate from college?
 * I quit smoking?
 * Adalyn take her first step?
 
 Then the app tells me how much time has passed.
 
-![distance in time](http://cl.ly/image/213r3V3D3n1e/human-readable-distance-in-time.gif)
+![adding timers](http://cl.ly/image/252A3t0M0J09/demo.gif)
 
 ## First Steps
 
