@@ -1,4 +1,4 @@
-# When did
+# When did...
 
 When did I come up with this idea? Wouldn't it be nice to know?
 
